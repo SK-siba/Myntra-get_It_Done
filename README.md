@@ -1,2 +1,2 @@
 # Myntra
-For hackathon
+Collaborative Shopping experience and a Virtual-Trial Room
