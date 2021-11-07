@@ -1,29 +1,32 @@
 # Responsive-Ecommerce-Website
-Front-end for an e-commerce clothes selling website.
+**Front-end for an e-commerce website.**
+
 ## About
-1- It is a responsive webpage containing nice animations. <br />
-2- Contains a well authenticated contact, login and sinup froms.<br />
-3- Contains many categories regarding clothes.<br />
-4- A nice Footer.<br />
-5- Authenticated Payment Page.<br />
-5- A nice Cart Page.
+1- It is a webpage which mimics myntra page and adds some new features. <br />
+2- This webpage contains a chat and common group cart feature. <br />
+3- Users can interact with friends while shopping and make their final purchase.<br />
+4- Along with this feature, this webpage introduces virtual trail room feature. <br />
+5- Users can try different products there itself in webpage, making a more confident purchase. <br />
+6- All basic e-commerce website features are implemented.
+
+## Virtual Try On
+The virtual Trail feature is implemented in another repository
+Further Instruction are written in the below repo:
+**LINK : https://github.com/ayush777-hub/virtual_try_on_improvised
+
 ## Screenshots
+**CART FEATURE**
 <img src="homepage.jpeg" width = "100%">
 <img src="common_cart.jpeg" width = "100%">
-<img src="chat_demo.png" width = "100%">
 <img src="chat_system.jpeg" width = "100%">
 <img src="checkout.jpeg" width = "100%">
 
-## Virtual Try On
 
-LINK : https://github.com/ayush777-hub/virtual_try_on_improvised
-
-SCREENSHOTS
+**VIRTUAL TRY ON**
 
 <img src="tryon_homepage.png" width = "100%">
 <img src="ornaments_tryon.png" width = "100%">
 <img src="Necklace.png" width = "100%">
-<img src="shirt_upload2.png" width = "100%">
 <img src="shirt_tryon.png" width = "100%">
 
 
