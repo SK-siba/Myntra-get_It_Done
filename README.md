@@ -10,6 +10,7 @@ Front-end for an e-commerce clothes selling website.
 ## Screenshots
 <img src="homepage.jpeg" width = "100%">
 <img src="common_cart.jpeg" width = "100%">
+<img src="chat_demo.png" width = "100%">
 <img src="chat_system.jpeg" width = "100%">
 <img src="checkout.jpeg" width = "100%">
 
