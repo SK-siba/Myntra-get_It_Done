@@ -22,6 +22,7 @@ SCREENSHOTS
 <img src="tryon_homepage.png" width = "100%">
 <img src="ornaments_tryon.png" width = "100%">
 <img src="Necklace.png" width = "100%">
+<img src="shirt_upload.png" width = "100%">
 <img src="shirt_tryon.png" width = "100%">
 
 
