@@ -21,7 +21,7 @@ SCREENSHOTS
 
 <img src="tryon_homepage.jpeg" width = "100%">
 <img src="ornaments_tryon.jpeg" width = "100%">
-<img src="necklace.jpeg" width = "100%">
+<img src="Necklace.jpeg" width = "100%">
 <img src="shirt_tryon.jpeg" width = "100%">
 
 
