@@ -8,9 +8,9 @@ Front-end for an e-commerce clothes selling website.
 5- Authenticated Payment Page.<br />
 5- A nice Cart Page.
 ## Screenshots
-<img src="screenshots/homepage.jpeg" width = "100%">
-<img src="screenshots/common_cart.jpeg" width = "100%">
-<img src="screenshots/chat_system.jpeg" width = "100%">
-<img src="screenshots/checkout.jpeg" width = "100%">
+<img src="homepage.jpeg" width = "100%">
+<img src="common_cart.jpeg" width = "100%">
+<img src="chat_system.jpeg" width = "100%">
+<img src="checkout.jpeg" width = "100%">
 
 Hope this may help in your project someway...!
