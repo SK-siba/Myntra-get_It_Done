@@ -1,5 +1,5 @@
-# Responsive-Ecommerce-Website
-**Front-end for an e-commerce website.**
+# Super Myntra
+**Collaborative shopping with friends and virtual try on **
 
 ## About
 1- It is a webpage which mimics myntra page and adds some new features. <br />
